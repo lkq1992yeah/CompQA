@@ -1,0 +1,12 @@
+compQA:
+    SPARQL Interface:   8999(BH)    8699(DS)
+    Freebase Browser:   9999(BH)
+    Stanford CoreNLP:   9601(BH)    8601(DS)
+    Lukov's Lexicons:   9602(BH)
+       Query Service:   9610(BH)
+
+
+quick_query (BH only):
+    server_baike:   9650
+    lexicon:        9651
+    server_online:  9652

@@ -1,0 +1,4 @@
+from .compq_overall_model import CompqModel
+from .compact_relation_matching_kernel import CompactRelationMatchingKernel
+from .separated_relation_matching_kernel import SeparatedRelationMatchingKernel
+from .entity_linking_kernel import EntityLinkingKernel

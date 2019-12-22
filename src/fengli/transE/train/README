@@ -1,0 +1,2 @@
+1.g++ transE.cpp -o transE -pthread -O3 -march=native 编译
+2.需在../result中先建立对应文件夹

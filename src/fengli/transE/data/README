@@ -1,0 +1,2 @@
+1.将要处理文件放在origin_data目录下，然后将new_Process_data_format.py中file_name改为对应的名称
+2.将check_test.py放在生成目录下，此文件用来检测test文件和train文件的包容关系

@@ -1,0 +1,3 @@
+1.改变Test_TransE.cpp中n的值来调整dimension
+2.make编译
+3.根据实际情况调整读入文件路径

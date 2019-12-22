@@ -1,0 +1,7 @@
+Method	Dimension	MeanRank(Raw)	MeanRank(Filter)	Hit@10(Raw)	Hit@10(Filter)
+paper			243		125			0.349		0.471
+github	50		210		82			0.419		0.613
+github	100		205		63			0.479		0.702
+KB2E	100		235		136			0.51		0.71
+FastT	50		213		72			0.447		0.665
+FastT	100		232		78			0.485		0.77	
