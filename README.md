@@ -7,4 +7,6 @@ compQA_glove.zip: The pretrained word embeddings.
 
 fb_metadata.zip: A part of Freebase metadata info.
 
-linkings/: The entity linking results of CompQ/WebQ.
+linkings.zip: The entity linking results of CompQ/WebQ.
+
+models.zip: The saved models & predict results of WebQ/CompQ/SimpQ.
